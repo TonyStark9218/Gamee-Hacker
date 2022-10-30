@@ -30,7 +30,7 @@ except ImportError:
     sys.path.insert(0, "../gameeHacker/")
     from core import GameeHacker
 
-TELEGRAM_TOKEN = env("TELEGRAM_TOKEN")
+TELEGRAM_TOKEN = env("5613966666:AAH4WnZsg7GbdVxFtjVbk6XoE-lrfZgj0MQ")
 
 # Enable logging
 logging.basicConfig(
